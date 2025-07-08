@@ -25,4 +25,9 @@ A Java application that visualizes the Breadth-First Search (BFS) pathfinding al
 - Java 24 or higher
 - Swing (included in JDK)
 
-## Building and Running
+## Project Structure
+- `Main.java` - Application entry point
+- `Graph.java` - Grid data structure
+- `Node.java` - Grid cell representation
+- `Traversal.java` - BFS implementation
+- `Visualizer.java` - GUI and visualization
